@@ -4,3 +4,5 @@
 
 2 - Added a new line with my email
 icaro.santana.ifs@gmail.com
+
+This is the beginning of the git and github use.
